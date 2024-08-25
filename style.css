@@ -1,0 +1,53 @@
+body, h1, h2, h3, h4, h5, h6 {
+    font-family: "Raleway", sans-serif;
+  }
+  
+  .w3-bar, h1, button {
+    font-family: "Raleway", sans-serif;
+  }
+  
+  .w3-top {
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+  }
+  
+  .w3-bar .w3-button {
+    padding: 16px;
+  }
+  
+  header {
+    height: 100vh;
+    background-size: cover;
+  }
+  
+  .w3-container {
+    padding: 64px 0;
+  }
+  
+  .w3-hover-opacity {
+    opacity: 0.85;
+    transition: 0.3s;
+  }
+  
+  .w3-hover-opacity:hover {
+    opacity: 1;
+  }
+  
+  .w3-circle {
+    border-radius: 50%;
+  }
+  
+  .w3-padding-64 {
+    padding-top: 64px !important;
+    padding-bottom: 64px !important;
+  }
+  
+  .w3-light-grey {
+    background-color: #f1f1f1 !important;
+  }
+  
+  .w3-gray {
+    background-color: #757575 !important;
+  }
+  
